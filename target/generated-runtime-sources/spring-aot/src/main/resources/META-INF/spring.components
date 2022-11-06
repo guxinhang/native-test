@@ -1,0 +1,4 @@
+#
+#Sun Nov 06 21:42:26 CST 2022
+com.gu.nativetest.resource.testController=org.springframework.stereotype.Component
+com.gu.nativetest.NativeTestApplication=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
